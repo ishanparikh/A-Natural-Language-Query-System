@@ -4,8 +4,10 @@ Using NLTK to construct a system that reads simple facts and then answers questi
 System will enable dialogues such as the following:
 $$ John is a duck.
 OK
+
 $$ Mary is a duck.
 OK
+
 $$ John is purple.
 OK
 $$ Mary flies.
