@@ -2,23 +2,37 @@
 Using NLTK to construct a system that reads simple facts and then answers questions about them. A simple form of both machine reading and question answering. In the real world, such systems read large amounts of text (e.g. Wikipedia or news sites), populate database with facts learned from that text, and use the database to answer general knowledge questions about the world.
 
 System will enable dialogues such as the following:
+
 $$ John is a duck.
+
 OK
 
 $$ Mary is a duck.
+
 OK
 
 $$ John is purple.
+
 OK
+
 $$ Mary flies.
+
 OK
+
 $$ John likes Mary.
+
 OK
+
 $$ Who is a duck?
+
 John Mary
+
 $$ Who likes a duck who flies?
+
 John
+
 $$ Which purple ducks fly?
+
 None
 
 Sentences submitted are either statements or questions. Statements have
