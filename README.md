@@ -5,35 +5,35 @@ System will enable dialogues such as the following:
 
 $$ John is a duck.
 
-OK
+> OK
 
 $$ Mary is a duck.
 
-OK
+> OK
 
 $$ John is purple.
 
-OK
+> OK
 
 $$ Mary flies.
 
-OK
+> OK
 
 $$ John likes Mary.
 
-OK
+> OK
 
 $$ Who is a duck?
 
-John Mary
+> John Mary
 
 $$ Who likes a duck who flies?
 
-John
+> John
 
 $$ Which purple ducks fly?
 
-None
+> None
 
 Sentences submitted are either statements or questions. Statements have
 a very simple form, but the system uses them to learn what words are in the language
